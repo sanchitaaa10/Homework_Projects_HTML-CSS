@@ -7,3 +7,8 @@
 <h1>Project 2</h1>
 
 ![Screenshot 2025-04-30 at 7 36 06 PM](https://github.com/user-attachments/assets/a7434bcb-dae7-46c7-97fd-9231dd8f6313)
+
+<h1>Project 3</h1>
+
+![Screenshot 2025-04-30 at 7 45 29 PM](https://github.com/user-attachments/assets/9367930b-8965-4907-bb70-76e5bd43ceee)
+
